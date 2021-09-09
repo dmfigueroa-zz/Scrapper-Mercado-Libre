@@ -1,0 +1,19 @@
+{
+  "name": "backend-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "staart": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
